@@ -1,54 +1,115 @@
-# <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&duration=3000&color=00F7FF&center=true&vCenter=true&width=1000&lines=THARSAN;Cybersecurity+Student;AI+Security+Researcher;Cloud+Security+Enthusiast;Founder+of+NexoraCrew" />
-
 <div align="center">
 
-# THARSAN
+<img src="YOUR_LOGO_URL" width="180">
 
-### AI Security • Cybersecurity • Cloud Security • DevSecOps
+# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=THARSAN;Cybersecurity+Engineering+Student;AI+Security+Researcher;Cloud+Security+Enthusiast;DevSecOps+Learner;Founder+of+NexoraCrew" />
 
-🚀 Founder @ NexoraCrew
-📍 Tiruchirappalli, Tamil Nadu, India
+### 🔐 AI Security • Cloud Security • DevSecOps • Cybersecurity
+
+<img src="https://komarev.com/ghpvc/?username=tharsan1305&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
 </div>
 
 ---
 
-# About Me
+<div align="center">
 
-I am a Cyber Security Engineering student, Founder & CEO of NexoraCrew, and technology enthusiast passionate about building secure, scalable, and innovative solutions.
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge\&logo=vercel)](https://stharsan.onrender.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/tharsan1305)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge\&logo=medium)](https://medium.com/@stharsan.cs)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge\&logo=tryhackme)](https://tryhackme.com/p/stharsan1305)
+[![NexoraCrew](https://img.shields.io/badge/NexoraCrew-00F7FF?style=for-the-badge)](https://nexoracrew.com/)
+[![Resume](https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge)](https://drive.google.com/file/d/1DyVzrbLzgAZUUNWorQ1KZSsO5iSrk4VT/view)
 
-My current interests include:
-
-* Cybersecurity
-* Cloud Security
-* DevSecOps
-* AI Security
-* Network Security
-* Security Automation
-* Linux Administration
-* Threat Intelligence
-
-I actively explore security concepts through CTFs, labs, research, and hands-on projects.
+</div>
 
 ---
 
-# Education
+# 👨‍💻 About Me
 
 🎓 B.E Computer Science Engineering (Cybersecurity)
 
-J.J College of Engineering & Technology
+🏫 J.J College of Engineering & Technology
 
-Anna University
+📍 Tiruchirappalli, Tamil Nadu, India
 
-CGPA: 8.34 / 10
+🚀 Founder & CEO @ NexoraCrew
 
-Expected Graduation: 2028
+🛡️ AI Security | Cloud Security | DevSecOps | Cybersecurity
+
+I am a Cyber Security Engineering student and technology entrepreneur passionate about building secure systems, intelligent applications, cloud solutions, and cybersecurity products.
+
+My interests include:
+
+* Cybersecurity
+* AI Security
+* Cloud Security
+* DevSecOps
+* Threat Intelligence
+* Security Automation
+* Network Security
+* Linux Administration
+* LLM Security
 
 ---
 
-# Technical Skills
+# 🚀 Current Focus
 
-### Security
+* Linux Administration
+* Networking Fundamentals
+* Cybersecurity Foundations
+* Cloud Security
+* DevSecOps
+* AI Security
+* Threat Intelligence
+* Web Application Security
+* Security Automation
+
+---
+
+# 🎯 Target Roles
+
+✅ AI Security Engineer
+
+✅ Cloud Security Engineer
+
+✅ DevSecOps Engineer
+
+✅ Application Security Engineer
+
+✅ Platform Security Engineer
+
+---
+
+# 🛠 Tech Stack
+
+### Programming Languages
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css"/>
+
+</p>
+
+### Development
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb"/>
+
+</p>
+
+### DevOps & Cloud
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=docker,linux,git,github,aws"/>
+
+</p>
+
+---
+
+# 🛡 Cybersecurity Skills
 
 * Network Security
 * Web Security
@@ -57,125 +118,159 @@ Expected Graduation: 2028
 * Threat Intelligence
 * OSINT
 * Digital Forensics
-
-### Cloud & DevOps
-
-* Docker
-* Linux
-* Git
-* GitHub
-* DevSecOps
+* Security Automation
 * Cloud Security
-
-### Programming
-
-* Python
-* JavaScript
-* TypeScript
-* HTML
-* CSS
-
-### Databases
-
-* MongoDB
-* SQLite
+* DevSecOps
 
 ---
 
-# Certifications
+# 💼 Experience
+
+## Founder & CEO — NexoraCrew
+
+📅 Sep 2025 – Present
+
+Student-led technology and cybersecurity startup.
+
+---
+
+## Co-Founder & CEO — Vibernox
+
+📅 2024 – Present
+
+Product-based technology startup.
+
+---
+
+# 🏢 Internships
+
+🔹 Cyber Security Intern — Redynox
+
+🔹 Cyber Security Intern — PRODIGIT Software Solutions
+
+🔹 Cyber Security Intern — Thiranex
+
+---
+
+# 🔥 Featured Projects
+
+### Vulnerability Scanner
+
+Python-based vulnerability assessment platform.
+
+### Sentinel AI
+
+Phishing email classifier and URL analyzer.
+
+### CyberSecurity Roadmap 2026
+
+Day-by-day cybersecurity learning roadmap.
+
+### Placement Management System
+
+Full-stack placement portal.
+
+### RAG Pipeline
+
+Private AI document assistant.
+
+---
+
+# 🏆 Certifications
 
 * ISC2 Certified in Cybersecurity (CC)
-* Security Blue Team OSINT Fundamentals
-* Certified Social Engineering Defense Practitioner
 * Cyber Threat Intelligence Analyst
+* Certified Social Engineering Defense Practitioner
+* OSINT Fundamentals
 * Responsible AI: Adversarial Attacks on LLMs
 * MongoDB RAG Development
 * Networking Fundamentals
 
 ---
 
-# Experience
+# 📚 Practice Platforms
 
-## Founder & CEO — NexoraCrew
-
-Sep 2025 – Present
-
-Student-led technology and cybersecurity startup.
-
-## Co-Founder & CEO — Vibernox
-
-2024 – Present
-
-Product-based technology startup.
+* TryHackMe
+* HackTheBox
+* PicoCTF
+* VulnHub
 
 ---
 
-# Featured Projects
+# 📈 GitHub Statistics
 
-## Vulnerability Scanner
+<p align="center">
 
-Python-based vulnerability assessment tool with Flask dashboard.
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tharsan1305&show_icons=true&theme=tokyonight"/>
 
-## Sentinel AI
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharsan1305&layout=compact&theme=tokyonight"/>
 
-Phishing email and malicious URL detection platform.
-
-## CyberSecurity Roadmap 2026
-
-Day-by-day cybersecurity learning roadmap.
-
-## Placement Management System
-
-Full-stack portal for student placements.
-
-## RAG Pipeline
-
-Private document AI search system.
+</p>
 
 ---
 
-# Current Focus
+# 🔥 Contribution Streak
 
-* Linux Administration
-* Networking
-* Cybersecurity Foundations
-* Cloud Security
-* DevSecOps
-* AI Security
-* LLM Security
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tharsan1305&theme=tokyonight"/>
+
+</p>
 
 ---
 
-# Target Roles
+# 🏅 GitHub Trophies
 
-* AI Security Engineer
-* Cloud Security Engineer
-* DevSecOps Engineer
-* Application Security Engineer
-* Platform Security Engineer
+<p align="center">
 
----
+<img src="https://github-profile-trophy.vercel.app/?username=tharsan1305&theme=tokyonight&row=1&column=7"/>
 
-# GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=tharsan1305\&show_icons=true\&theme=tokyonight)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tharsan1305\&layout=compact\&theme=tokyonight)
+</p>
 
 ---
 
-# Connect With Me
+# 🌐 Connect With Me
 
 📧 [stharsan13052007@gmail.com](mailto:stharsan13052007@gmail.com)
 
-📍 Tiruchirappalli, Tamil Nadu, India
+🌍 Portfolio: https://stharsan.onrender.com/
 
-GitHub: github.com/tharsan1305
+🔗 LinkedIn: https://www.linkedin.com/in/tharsan1305
+
+📝 Medium: https://medium.com/@stharsan.cs
+
+🛡 TryHackMe: https://tryhackme.com/p/stharsan1305
+
+🚀 NexoraCrew: https://nexoracrew.com/
+
+📄 Resume: https://drive.google.com/file/d/1DyVzrbLzgAZUUNWorQ1KZSsO5iSrk4VT/view
 
 ---
 
-### Open to Work
+# 🚀 Open To Work
 
-Cybersecurity • AI Security • Cloud Security • DevSecOps
+### Cybersecurity
 
-Always open to internships, collaborations, research, and innovative projects.
+### AI Security
+
+### Cloud Security
+
+### DevSecOps
+
+### Security Research
+
+### Open Source Projects
+
+---
+
+<div align="center">
+
+## Building Secure Systems • Learning Continuously • Creating Impact
+
+### Founder @ NexoraCrew
+
+### AI Security Engineer (Future)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:00F7FF&height=120&section=footer"/>
