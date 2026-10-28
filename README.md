@@ -1,11 +1,11 @@
 <div align="center">
 
-<!-- Header Dynamic Wave Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:07090e,50:0f172a,100:00F7FF&height=220&section=header&text=THARSAN%20S&fontSize=56&fontAlignY=36&animation=twinkling&desc=AI%20Software%20Engineer%20%E2%80%A2%20AI%20DevOps%20%E2%80%A2%20AI%20Security%20%E2%80%A2%20Founder%20@%20NexoraCrew&descSize=17&descAlignY=62" width="100%" alt="Tharsan Header Banner" />
+<!-- Header Dynamic Wave Banner (Engineering & Security Focused) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,100:00f7ff&height=220&section=header&text=THARSAN%20S&fontSize=56&fontAlignY=36&animation=twinkling&desc=AI%20Software%20Engineer%20%E2%80%A2%20AI%20DevOps%20%E2%80%A2%20AI%20Security%20%E2%80%A2%20Cloud%20Security&descSize=17&descAlignY=62" width="100%" alt="Tharsan Header Banner" />
 
 <!-- Dynamic Animated Typing SVG -->
 <a href="https://stharsan.onrender.com/">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=AI+Software+Engineer+%26+DevSecOps+Enthusiast;Founder+%26+CEO+%40+NexoraCrew;Core+UI%2FUX+%26+Security+Engineer+%40+PragatiX;Building+%26+Securing+AI-Powered+Production+Systems;Pre-Final+Year+Cybersecurity+%40+JJCET+(CGPA+8.3%2F10)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=AI+Software+Engineer+%26+DevSecOps+Enthusiast;Core+UI%2FUX+%26+Security+Engineer+%40+PragatiX;Building+%26+Securing+AI-Powered+Production+Systems;Cybersecurity+Engineering+Student+%40+JJCET;Cloud+Security+%26+Vulnerability+Researcher" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -28,14 +28,14 @@
 
 ---
 
-### 👨‍💻 Executive Summary
+### 👨‍💻 About Me
 
 I am a **Pre-Final Year Computer Science & Engineering (Cybersecurity)** student at **J.J. College of Engineering & Technology** (Anna University, **CGPA: 8.3 / 10**) and an **AI Software Engineer & Security Specialist**. 
 
-I specialize in building, architecting, and defending modern full-stack web and cloud systems with **Spring Boot, Python, React, AWS, Docker, and DevSecOps pipelines**. I am the Founder & CEO of **NexoraCrew** and lead frontend/application security for **PragatiX** (a campus platform serving live academic workloads).
+I specialize in building, architecting, and defending modern full-stack web and cloud systems using **Spring Boot, Python, React, AWS, Docker, and DevSecOps pipelines**. I engineer frontend UI/UX and lead application security for **PragatiX** (a campus platform serving live academic workloads).
 
 - 🛡️ **Current Focus:** AI Security Guardrails, Cloud Security Architectures (AWS), DevSecOps CI/CD Automation & LLM Pentesting.
-- 🚀 **Founder & CEO @ NexoraCrew:** Delivered 5+ client web platforms and reduced manual admin overhead by 70%.
+- 💻 **Engineering Impact:** Developed 5+ client web platforms and automated reporting that cut manual administrative overhead by 70%.
 - 📱 **Core Engineer @ PragatiX:** Launched September 7, 2026 on Web, Google Play Store, and Apple App Store.
 - 🌐 **Leadership & Ambassadorships:** Microsoft Future Student Ambassador • FUEL Ambassador (Palo Alto Networks) • NCORE Impact Member.
 - 🎯 **Target Roles:** AI Security Engineer • DevSecOps Engineer • Cloud Security Engineer • Application Security Engineer.
@@ -68,7 +68,7 @@ I specialize in building, architecting, and defending modern full-stack web and 
       </p>
       <ul>
         <li><b>Architecture:</b> Spring Boot REST API, MySQL, React.js Web Portal, Flutter Mobile App.</li>
-        <li><b>Cloud & Security:</b> Hosted on AWS (EC2, RDS, CloudFront, Route 53). Built JWT RBAC, bcrypt password hashing, dependency vulnerability scanners in GitHub Actions CI/CD.</li>
+        <li><b>Cloud & Security:</b> Hosted on AWS (EC2, RDS, CloudFront, Route 53). Built JWT RBAC, bcrypt password hashing, and dependency vulnerability scanning in GitHub Actions CI/CD.</li>
         <li><b>Impact:</b> Official campus performance, attendance, and milestone verification engine.</li>
       </ul>
     </td>
@@ -115,7 +115,7 @@ I specialize in building, architecting, and defending modern full-stack web and 
         <a href="https://github.com/tharsan1305/SIH-2026"><img src="https://img.shields.io/badge/Repository-SIH--2026-blueviolet?style=flat-square&logo=github" alt="SIH 2026"/></a>
       </p>
       <ul>
-        <li>The definitive Smart India Hackathon (SIH) preparation resource: domain cheat-sheets (AI/ML, Cyber, Cloud), pitch decks, and feasibility matrices.</li>
+        <li>Smart India Hackathon (SIH) preparation resource: domain cheat-sheets (AI/ML, Cyber, Cloud), pitch decks, and feasibility matrices.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
@@ -124,7 +124,7 @@ I specialize in building, architecting, and defending modern full-stack web and 
         <a href="https://github.com/tharsan1305/CyberSecurity-Roadmap-2026"><img src="https://img.shields.io/badge/Repository-CyberSecurity--Roadmap-orange?style=flat-square&logo=github" alt="Roadmap"/></a>
       </p>
       <ul>
-        <li>A structured, day-by-day learning blueprint covering networking, Linux administration, Cloud, DevSecOps, Pentesting, SOC, DFIR, and AI Security.</li>
+        <li>Structured, day-by-day learning blueprint covering networking, Linux administration, Cloud, DevSecOps, Pentesting, SOC, DFIR, and AI Security.</li>
       </ul>
     </td>
   </tr>
@@ -229,7 +229,7 @@ I specialize in building, architecting, and defending modern full-stack web and 
 | 📧 **Email** | `stharsan13052007@gmail.com` | [Send Message](mailto:stharsan13052007@gmail.com) |
 | 🛡️ **TryHackMe** | `@stharsan13052007` (Top 25%) | [View Profile](https://tryhackme.com/p/stharsan13052007) |
 | 📜 **Credly** | `tharsan1305` | [Verify Badges](https://www.credly.com/users/tharsan1305) |
-| 🚀 **NexoraCrew** | `nexoracrew.com` | [Explore Startup](https://nexoracrew.com/) |
+| 🚀 **NexoraCrew** | `nexoracrew.com` | [Explore Platform](https://nexoracrew.com/) |
 | 📱 **PragatiX** | `pragatix.in` | [Open Production App](https://pragatix.in) |
 | 📄 **Resume** | Direct Google Drive Access | [Download Resume](https://drive.google.com/file/d/1Nz2AmiWbBcT22ZLd_xpf_NlX_mpFQoLw/view?usp=sharing) |
 | 💻 **LeetCode** | `@stharsan13` | [View Solutions](https://leetcode.com/u/stharsan13) |
@@ -245,7 +245,7 @@ I specialize in building, architecting, and defending modern full-stack web and 
 
 <div align="center">
   <h3>⚡ Building Secure Systems • Learning Continuously • Creating Impact</h3>
-  <p><b>Founder @ NexoraCrew</b> • <b>AI Security Engineer (Future)</b></p>
+  <p><b>AI Software Engineer</b> • <b>AI Security & DevSecOps Researcher</b></p>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07090e,50:0e172a,100:00F7FF&height=120&section=footer" width="100%" alt="Footer Wave" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,100:00f7ff&height=120&section=footer" width="100%" alt="Footer Wave" />
