@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Crystal Clear High-Contrast Header Banner (Bright White Text & Neon Cyan Subtitle) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050811,40:0e172a,100:00f7ff&height=220&section=header&text=THARSAN%20S&fontSize=52&fontColor=ffffff&fontAlignY=36&animation=twinkling&desc=AI%20Software%20Engineer%20%E2%80%A2%20AI%20Security%20%E2%80%A2%20Cloud%20Security%20(AWS)%20%E2%80%A2%20DevSecOps&descColor=00f7ff&descSize=16&descAlignY=62" width="100%" alt="Tharsan Header Banner" />
+# 🛡️ THARSAN S
+### **AI Security Engineer • Cloud Infrastructure (AWS) • DevSecOps Specialist**
 
 <!-- Dynamic Animated Typing SVG -->
 <a href="https://stharsan.onrender.com/">
@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/AWS-BUILDER%20COMMUNITY-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS Builder" />
 </p>
 
-<!-- Perfectly Symmetrical 4-Badge Rows (No Awkward Wrapping) -->
+<!-- Perfectly Symmetrical 4-Badge Rows (100% Reliable Loading) -->
 <p align="center">
   <a href="https://stharsan.onrender.com/"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=00F7FF" alt="Portfolio" /></a>
   <a href="https://drive.google.com/file/d/1Nz2AmiWbBcT22ZLd_xpf_NlX_mpFQoLw/view?usp=sharing"><img src="https://img.shields.io/badge/RESUME_PDF-2563EB?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" /></a>
@@ -244,10 +244,6 @@ I am a cybersecurity engineering student and software developer building secure,
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tharsan1305&theme=tokyonight&hide_border=true&background=07090e&ring=00F7FF&fire=00F7FF&currStreakNum=00F7FF" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tharsan1305&theme=tokyonight&no-bg=true&margin-w=10&row=1&column=7" alt="GitHub Trophies" />
-</p>
-
 </div>
 
 ---
@@ -258,30 +254,27 @@ I am a cybersecurity engineering student and software developer building secure,
 
 | Platform | Handle / Identifier | Direct Action |
 | :--- | :--- | :--- |
-| <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=00F7FF"/> **Portfolio** | `stharsan.onrender.com` | [Visit Live Portfolio](https://stharsan.onrender.com/) |
-| <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/> **LinkedIn** | `/in/tharsan1305` | [Connect on LinkedIn](https://www.linkedin.com/in/tharsan1305) |
-| <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/> **Direct Email** | `stharsan13052007@gmail.com` | [Send Message](mailto:stharsan13052007@gmail.com) |
-| <img src="https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white"/> **Reddit** | `u/Tharsan13` | [View Reddit Profile](https://www.reddit.com/u/Tharsan13/s/D2sHUcW0xU) |
-| <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white"/> **Discord** | Community Hub | [Join Discord Server](https://discord.gg/ZVBDVU65) |
-| <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white"/> **X (Twitter)** | `@THARSANat6` | [Follow on X](https://x.com/THARSANat6) |
-| <img src="https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=red"/> **TryHackMe** | `@stharsan13052007` (Top 25%) | [Inspect Labs & Rank](https://tryhackme.com/p/stharsan13052007) |
-| <img src="https://img.shields.io/badge/Credly-FF6B00?style=flat-square&logo=credly&logoColor=white"/> **Credly** | `tharsan1305` | [Verify Official Badges](https://www.credly.com/users/tharsan1305) |
-| <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white"/> **AWS Builder** | `@tharsan` | [Read AWS Publications](https://builder.aws.com/community/@tharsan) |
-| <img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white"/> **Medium** | `@stharsan.cs` | [Read Security Articles](https://medium.com/@stharsan.cs) |
-| <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/> **LeetCode** | `@stharsan13` | [Inspect Solved Problems](https://leetcode.com/u/stharsan13) |
-| <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/> **Google Skills** | Cloud & GenAI Transcript | [Public Transcript](https://www.skills.google/public_profiles/4f892d54-bf92-4b00-909f-184b24b497c0) |
-| <img src="https://img.shields.io/badge/Microsoft-0078D4?style=flat-square&logo=microsoft&logoColor=white"/> **Microsoft Learn** | Learning Profile | [View Transcript](https://learn.microsoft.com/en-gb/users/tharsan13/) |
-| <img src="https://img.shields.io/badge/Google_Play-34A853?style=flat-square&logo=googleplay&logoColor=white"/> **PragatiX (Play Store)** | `jjcet.PragatiX` | [Google Play Store](https://play.google.com/store/apps/details?id=jjcet.PragatiX) |
-| <img src="https://img.shields.io/badge/App_Store-000000?style=flat-square&logo=apple&logoColor=white"/> **PragatiX (App Store)** | `id6814354285` | [Apple App Store](https://apps.apple.com/us/app/pragatix/id6814354285) |
-| <img src="https://img.shields.io/badge/Google_Drive-2563EB?style=flat-square&logo=googledrive&logoColor=white"/> **Resume (PDF)** | Official PDF Format | [Download Resume](https://drive.google.com/file/d/1Nz2AmiWbBcT22ZLd_xpf_NlX_mpFQoLw/view?usp=sharing) |
+| <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=00F7FF"/> | `stharsan.onrender.com` | [Visit Live Portfolio](https://stharsan.onrender.com/) |
+| <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/> | `/in/tharsan1305` | [Connect on LinkedIn](https://www.linkedin.com/in/tharsan1305) |
+| <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/> | `stharsan13052007@gmail.com` | [Send Direct Email](mailto:stharsan13052007@gmail.com) |
+| <img src="https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white"/> | `u/Tharsan13` | [View Reddit Profile](https://www.reddit.com/u/Tharsan13/s/D2sHUcW0xU) |
+| <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white"/> | Community Hub | [Join Discord Server](https://discord.gg/ZVBDVU65) |
+| <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white"/> | `@THARSANat6` | [Follow on X](https://x.com/THARSANat6) |
+| <img src="https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=red"/> | `@stharsan13052007` (Top 25%) | [Inspect Labs & Rank](https://tryhackme.com/p/stharsan13052007) |
+| <img src="https://img.shields.io/badge/Credly-FF6B00?style=flat-square&logo=credly&logoColor=white"/> | `tharsan1305` | [Verify Official Badges](https://www.credly.com/users/tharsan1305) |
+| <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white"/> | `@tharsan` | [Read AWS Publications](https://builder.aws.com/community/@tharsan) |
+| <img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white"/> | `@stharsan.cs` | [Read Security Articles](https://medium.com/@stharsan.cs) |
+| <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/> | `@stharsan13` | [Inspect Solved Problems](https://leetcode.com/u/stharsan13) |
+| <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/> | Cloud & GenAI Transcript | [Public Transcript](https://www.skills.google/public_profiles/4f892d54-bf92-4b00-909f-184b24b497c0) |
+| <img src="https://img.shields.io/badge/Microsoft-0078D4?style=flat-square&logo=microsoft&logoColor=white"/> | Learning Profile | [View Transcript](https://learn.microsoft.com/en-gb/users/tharsan13/) |
+| <img src="https://img.shields.io/badge/Google_Play-34A853?style=flat-square&logo=googleplay&logoColor=white"/> | `jjcet.PragatiX` | [Google Play Store](https://play.google.com/store/apps/details?id=jjcet.PragatiX) |
+| <img src="https://img.shields.io/badge/App_Store-000000?style=flat-square&logo=apple&logoColor=white"/> | `id6814354285` | [Apple App Store](https://apps.apple.com/us/app/pragatix/id6814354285) |
+| <img src="https://img.shields.io/badge/Google_Drive-2563EB?style=flat-square&logo=googledrive&logoColor=white"/> | Official PDF Format | [Download Resume](https://drive.google.com/file/d/1Nz2AmiWbBcT22ZLd_xpf_NlX_mpFQoLw/view?usp=sharing) |
 
 </div>
 
 <br/>
 
 <div align="center">
-  <h3>⚡ Building Secure Systems • Learning Continuously • Creating Impact</h3>
-  <p><b>AI Software Engineer</b> • <b>AI Security & DevSecOps Researcher</b></p>
+  <sub>⚡ <b>Building Secure Systems • Learning Continuously • Creating Real-World Engineering Impact</b></sub>
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050811,40:0e172a,100:00f7ff&height=120&section=footer" width="100%" alt="Footer Wave" />
